@@ -243,7 +243,7 @@ If you find the examples to be unclear or incorrect, please, open a ticket.
 
 ## Revisions
 
-### v4.0 -- WORK IN PROGRESS
+### v4.0
 
 Updating from Libcanard v3 to v4 involves several changes in memory management and TX frame expiration.
 Please follow the [MIGRATION_v3.x_to_v4.0](MIGRATION_v3.x_to_v4.0.md) guide and carefully update your code.
